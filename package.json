@@ -1,0 +1,19 @@
+{
+  "name": "gentle-tdd",
+  "version": "1.0.0",
+  "description": "ejercicio tdd",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flordeciruela/gentle-tdd.git"
+  },
+  "author": "flordeciruela",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flordeciruela/gentle-tdd/issues"
+  },
+  "homepage": "https://github.com/flordeciruela/gentle-tdd#readme"
+}
